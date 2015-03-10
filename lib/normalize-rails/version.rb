@@ -1,5 +1,7 @@
 module Normalize
   module Rails
-    VERSION = "3.0.2"
+    module Less
+      VERSION = "3.0.2"
+    end
   end
 end
